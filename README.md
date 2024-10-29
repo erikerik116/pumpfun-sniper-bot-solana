@@ -1,12 +1,7 @@
-![Banner](https://raw.githubusercontent.com/CryptoTechZoo/fssb-fast-solana-sniper-bot/main/imgs/logo.png?token=GHSAT0AAAAAACQ7I5N4PN6HO3RVHTL2EE3WZQ4ZNWA)
+
 
 ## FSSB SOLANA SNIPER BOT
 
-![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)
-[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
-[![GitHub Forks](https://img.shields.io/github/forks/CryptoTechZoo/fssb-fast-solana-sniper-bot.svg?branch=main)](https://github.com/CryptoTechZoo/fssb-fast-solana-sniper-bot/network)
-[![GitHub Stars](https://img.shields.io/github/stars/CryptoTechZoo/fssb-fast-solana-sniper-bot.svg?branch=main)](https://github.com/CryptoTechZoo/fssb-fast-solana-sniper-bot/stargazers)
-[![GitHub License](https://img.shields.io/badge/license-mit.svg)](https://raw.githubusercontent.com/CryptoTechZoo/fssb-fast-solana-sniper-bot/main/LICENSE.md)
 
 **FSSB solana sniper** is a bot that listen for all new raydium tokens pool USDC/SOL sniped in realtime. 
 
